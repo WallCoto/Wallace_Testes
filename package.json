@@ -8,6 +8,7 @@
     "test:mobile": "cypress run --config viewportWidth=410,viewportHeight=860"
   },
   "devDependencies": {
+    "@faker-js/faker": "^10.5.0",
     "cypress": "^15.0.0"
   }
 }
